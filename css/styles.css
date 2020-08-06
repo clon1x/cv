@@ -4,11 +4,15 @@ body {
   background-color: azure;
 }
 
-hr   {
+hr {
   border: none;
   border-top-style: dotted;
   border-top-width: 6px;
   width: 48px;
   color: powderblue;
   background-color: #00000000;
+}
+
+h1, h2, h3 {
+  color: #66BFBF;
 }
